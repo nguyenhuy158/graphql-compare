@@ -1,0 +1,6 @@
+# flask==2.3.3
+# flask-graphql==2.0.1
+# graphene==3.3
+flask==2.3.3
+flask-graphql==2.0.1
+graphene==2.1.9
