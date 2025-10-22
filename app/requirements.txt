@@ -1,6 +1,19 @@
 # flask==2.3.3
 # flask-graphql==2.0.1
 # graphene==3.3
+
+# Core app
 flask==2.3.3
 flask-graphql==2.0.1
 graphene==2.1.9
+
+# Common Python stack
+requests==2.32.3          # HTTP client
+pandas==2.2.2             # DataFrame library (nặng)
+numpy==1.26.4             # Numerical computing (nặng)
+sqlalchemy==2.0.36        # ORM layer
+psycopg2-binary==2.9.9    # PostgreSQL driver
+redis==5.0.8              # Redis client
+pillow==10.3.0            # Image processing (nặng)
+pytest==8.3.3             # Testing framework
+
